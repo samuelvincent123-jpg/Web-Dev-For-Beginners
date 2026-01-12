@@ -1,6 +1,6 @@
 # Introduction to GitHub
 
-Hey there, future developer! 👋 Ready to join millions of coders around the world? I'm genuinely excited to introduce you to GitHub – think of it as the social media platform for programmers, except instead of sharing photos of your lunch, we're sharing code and building incredible things together!
+Hey there, future developer! 👋 Ready to join millions of coders around the world? I'm genuinely excited to introduce you to GitHub – think of it as the **social media platform for programmers**, except instead of sharing photos of your lunch, we're sharing code and building incredible things together!
 
 Here's what absolutely blows my mind: every app on your phone, every website you visit, and most of the tools you'll learn to use were built by teams of developers collaborating on platforms just like GitHub. That music app you love? Someone like you contributed to it. That game you can't put down? Yep, probably built with GitHub collaboration. And now YOU'RE going to learn how to be part of that amazing community!
 
@@ -767,6 +767,7 @@ journey
 > 🌍 **Welcome to the global developer community!** You now have the tools to collaborate with millions of developers worldwide. Your first contribution might seem small, but remember - every major open source project started with someone making their very first commit. The question isn't if you'll make an impact, but what amazing project will benefit from your unique perspective first! 🚀
 
 Remember: every expert was once a beginner. You've got this! 💪
+
 
 
 
