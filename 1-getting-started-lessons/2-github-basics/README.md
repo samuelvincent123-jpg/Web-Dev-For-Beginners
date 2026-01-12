@@ -321,7 +321,7 @@ Let's walk through this adventure together, step by step. Take your time with ea
 
    > 💡 **Tip**: You might also want to adopt a `.gitignore` file to prevent files you don't want to track from showing up on GitHub - like that notes file you store in the same folder but has no place on a public repository. You can find templates for `.gitignore` files at [.gitignore templates](https://github.com/github/gitignore) or create one using [gitignore.io](https://www.toptal.com/developers/gitignore).
 
-### 🧠 **First Repository Check-in: How Did That Feel?**
+### 🧠 **First Repository Check-in: How Did That Feel?** (Prodian)
 
 **Take a moment to celebrate and reflect:**
 - How did it feel to see your code appear on GitHub for the first time?
@@ -767,5 +767,6 @@ journey
 > 🌍 **Welcome to the global developer community!** You now have the tools to collaborate with millions of developers worldwide. Your first contribution might seem small, but remember - every major open source project started with someone making their very first commit. The question isn't if you'll make an impact, but what amazing project will benefit from your unique perspective first! 🚀
 
 Remember: every expert was once a beginner. You've got this! 💪
+
 
 
