@@ -143,7 +143,7 @@ flowchart TD
     style N fill:#ff4081,color:#fff
 ```
 
-### Task: Create Your First Repository!
+### Task: Create Your First Repository! (Prodian)
 
 > 🎯 **Your Mission (and I'm so excited for you!)**: We're going to create your very first GitHub repository together! By the time we're done here, you'll have your own little corner of the internet where your code lives, and you'll have made your first "commit" (that's developer speak for saving your work in a really smart way). 
 >
@@ -155,7 +155,7 @@ Let's walk through this adventure together, step by step. Take your time with ea
 > 
 > [![Git and GitHub basics video](https://img.youtube.com/vi/9R31OUPpxU4/0.jpg)](https://www.youtube.com/watch?v=9R31OUPpxU4)
 
-**Let's Do This Together:**
+**Let's Do This Together:** **(Prodian)**
 
 1. **Create your repository on GitHub**. Head over to GitHub.com and look for that bright green **New** button (or the **+** sign in the top right corner). Click it and select **New repository**.
 
@@ -510,7 +510,7 @@ Let's go through a contributor workflow. Assume the contributor has already _for
 
    The above command creates the branch on your forked repo.
 
-### 🤝 **Collaboration Skills Check: Ready to Work with Others?**
+### 🤝 **Collaboration Skills Check: Ready to Work with Others?** (Prodian)
 
 **Let's see how you're feeling about collaboration:**
 - Does the idea of forking and pull requests make sense to you now?
@@ -651,7 +651,7 @@ Projects might also have discussion in forums, mailing lists, or chat channels l
 
 ---
 
-## 🚀 Challenge 
+## 🚀 Challenge (Prodian)
 
 Alright, it's time to put your shiny new GitHub superpowers to the test! 🚀 Here's a challenge that's going to make everything click in the most satisfying way:
 
@@ -696,11 +696,11 @@ Use the Agent mode to complete the following challenge:
 
 **Prompt:** Create a new public GitHub repository for a simple "Web Development Resources" project. The repository should include a well-structured README.md file listing useful web development tools and resources, organized by categories (HTML, CSS, JavaScript, etc.). Set up the repository with proper community standards including a license, contributing guidelines, and a code of conduct. Create at least two feature branches: one for adding CSS resources and another for JavaScript resources. Make commits to each branch with descriptive commit messages, then create pull requests to merge the changes back to main. Enable GitHub features like Issues, Discussions, and set up a basic GitHub Actions workflow for automated checks.
 
-## Assignment 
+## Assignment (Prodian)
 
 Your mission, should you choose to accept it: Complete the [Introduction to GitHub](https://github.com/skills/introduction-to-github) course on GitHub Skills. This interactive course will let you practice everything you've learned in a safe, guided environment. Plus, you'll get a cool badge when you finish! 🏅
 
-**Feeling ready for more challenges?**
+**Feeling ready for more challenges?** **(Prodian, Try this if possible)**
 - Set up SSH authentication for your GitHub account (no more passwords!)
 - Try using GitHub CLI for your daily Git operations
 - Create a repository with a GitHub Actions workflow
@@ -767,3 +767,4 @@ journey
 > 🌍 **Welcome to the global developer community!** You now have the tools to collaborate with millions of developers worldwide. Your first contribution might seem small, but remember - every major open source project started with someone making their very first commit. The question isn't if you'll make an impact, but what amazing project will benefit from your unique perspective first! 🚀
 
 Remember: every expert was once a beginner. You've got this! 💪
+
