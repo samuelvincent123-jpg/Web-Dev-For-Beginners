@@ -272,7 +272,7 @@ Notice how the JavaScript version reads almost like English instructions, while 
 ✅ **About the Fibonacci sequence**: This absolutely gorgeous number pattern (where each number equals the sum of the two before it: 0, 1, 1, 2, 3, 5, 8...) shows up literally *everywhere* in nature! You'll find it in sunflower spirals, pinecone patterns, the way nautilus shells curve, and even in how tree branches grow. It's pretty mind-blowing how math and code can help us understand and recreate the patterns that nature uses to create beauty!
 
 
-## The Building Blocks That Make the Magic Happen
+## The Building Blocks That Make the Magic Happen (Prodian)
 
 Alright, now that you've seen what programming languages look like in action, let's break down the fundamental pieces that make up literally every program ever written. Think of these as the essential ingredients in your favorite recipe – once you understand what each one does, you'll be able to read and write code in pretty much any language!
 
@@ -460,7 +460,7 @@ switch (dayOfWeek) {
 
 > 💡 **Real-world analogy**: Think of control flow like having the world's most patient GPS giving you directions. It might say "If there's traffic on Main Street, take the highway instead. If construction is blocking the highway, try the scenic route." Programs use exactly the same type of conditional logic to respond intelligently to different situations and always give users the best possible experience.
 
-### 🎯 **Concept Check: Building Blocks Mastery**
+### 🎯 **Concept Check: Building Blocks Mastery** (Prodian)
 
 **Let's see how you're doing with the fundamentals:**
 - Can you explain the difference between a variable and a statement in your own words?
@@ -480,7 +480,7 @@ flowchart LR
 
 ✅ **What's coming up next**: We're going to have an absolute blast diving deeper into these concepts as we continue this incredible journey together! Right now, just focus on feeling that excitement about all the amazing possibilities ahead of you. The specific skills and techniques will stick naturally as we practice together – I promise this is going to be so much more fun than you might expect!
 
-## Tools of the Trade
+## Tools of the Trade (Prodian)
 
 Alright, this is honestly where I get so excited I can barely contain myself! 🚀 We're about to talk about the incredible tools that are going to make you feel like you just got handed the keys to a digital spaceship.
 
@@ -533,7 +533,7 @@ Modern code editors offer an impressive array of features designed to boost your
 
 > 🎥 **Video Resource**: Want to see these tools in action? Check out this [Tools of the Trade video](https://youtube.com/watch?v=69WJeXGBdxg) for a comprehensive overview.
 
-#### Recommended Editors for Web Development
+#### Recommended Editors for Web Development (Prodian)
 
 **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-77807-sagibbon)** (Free)
 - Most popular among web developers
@@ -570,7 +570,7 @@ The first time someone showed me browser DevTools, I spent like three hours just
 
 When you create a website or web application, you need to see how it looks and behaves in the real world. Browsers not only display your work but also provide detailed feedback about performance, accessibility, and potential issues.
 
-#### Browser Developer Tools (DevTools)
+#### Browser Developer Tools (DevTools) (Prodian)
 
 Modern browsers include comprehensive development suites:
 
@@ -591,7 +591,7 @@ Modern browsers include comprehensive development suites:
 > ⚠️ **Important Testing Tip**: Always test your websites in multiple browsers! What works perfectly in Chrome might look different in Safari or Firefox. Professional developers test across all major browsers to ensure consistent user experiences.
 
 
-### Command Line Tools: Your Gateway to Developer Superpowers
+### Command Line Tools: Your Gateway to Developer Superpowers (Prodian)
 
 Alright, let's have a completely honest moment here about the command line, because I want you to hear this from someone who truly gets it. When I first saw it – just this scary black screen with blinking text – I literally thought, "Nope, absolutely not! This looks like something from a 1980s hacker movie, and I am definitely not smart enough for this!" 😅
 
@@ -730,7 +730,7 @@ pie title "Developer Time Spent With Tools"
 
 ✅ **Food for thought**: Here's something interesting to ponder – how do you think the tools for building websites (development) might be different from tools for designing how they look (design)? It's like the difference between being an architect who designs a beautiful house and the contractor who actually builds it. Both are crucial, but they need different toolboxes! This kind of thinking will really help you see the bigger picture of how websites come to life.
 
-## GitHub Copilot Agent Challenge 🚀
+## GitHub Copilot Agent Challenge 🚀 
 
 Use the Agent mode to complete the following challenge:
 
@@ -740,7 +740,7 @@ Use the Agent mode to complete the following challenge:
 
 ---
 
-## 🚀 Challenge
+## 🚀 Challenge (Prodian)
 
 **Alright, detective, ready for your first case?**
 
